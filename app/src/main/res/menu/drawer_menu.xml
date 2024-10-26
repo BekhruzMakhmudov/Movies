@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_popular"
+        android:title="Popular" />
+    <item
+        android:id="@+id/nav_favorites"
+        android:title="Favorites" />
+</menu>
